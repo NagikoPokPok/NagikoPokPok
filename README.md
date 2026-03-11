@@ -32,13 +32,13 @@
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NagikoPokPok&theme=tokyonight)
 
 ---
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NagikoPokPok/NagikoPokPok/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
