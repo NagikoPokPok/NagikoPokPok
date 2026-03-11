@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub;Anime+Lover+%7C+Developer;Building+Cool+Stuff+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub;Building+Cool+Stuff+%F0%9F%9A%80" />
 
 ---
 
