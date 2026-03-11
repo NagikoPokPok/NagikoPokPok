@@ -17,16 +17,16 @@
 ### 🧠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,postgres,docker,git,linux,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,java,postgres,docker,git,linux,react,nodejs" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NagikoPokPok&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NagikoPokPok&layout=compact&theme=tokyonight)
 
 ---
 
@@ -44,7 +44,7 @@
 
 ### 👀 Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=NagikoPokPok&color=blueviolet)
 
 ---
 
